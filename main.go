@@ -1,6 +1,8 @@
 package main
 
-import "github.com/ngstmnn/fah-cli/cmd"
+import (
+	"github.com/ngstmnn/fah-cli/cmd"
+)
 
 func main() {
 	cmd.Execute()
